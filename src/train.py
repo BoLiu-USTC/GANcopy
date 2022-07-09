@@ -16,7 +16,7 @@ def main():
     # check params
 
     # setup params
-
+    CONSTANT = 1000
     PATH_TO_REC = "../data/"
     PATH_TO_CKPT = "./checkpoints"
     SOURCE = "rainy"
