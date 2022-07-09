@@ -8,17 +8,13 @@ import os.path
 def boliu():
     print('Bo Liu adds func here!')
 
-
-
-
-def ylli():
+def yllihandsome():
     print("yliang here!")
 
 def main():
     # check params
 
     # setup params
-    CONSTANT = 1000
     PATH_TO_REC = "../data/"
     PATH_TO_CKPT = "./checkpoints"
     SOURCE = "rainy"
