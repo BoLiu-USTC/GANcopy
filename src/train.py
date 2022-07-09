@@ -5,17 +5,14 @@ import records
 import utils
 import os.path
 
-<<<<<<< HEAD
 def boliu():
     print('Bo Liu adds func here!')
-=======
 
 
 
 
 def ylli():
     print("yliang here!")
->>>>>>> ylli
 
 def main():
     # check params
