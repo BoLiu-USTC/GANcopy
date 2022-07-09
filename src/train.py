@@ -5,14 +5,23 @@ import records
 import utils
 import os.path
 
+<<<<<<< HEAD
 def boliu():
     print('Bo Liu adds func here!')
+=======
+
+
+
+
+def ylli():
+    print("yliang here!")
+>>>>>>> ylli
 
 def main():
     # check params
 
     # setup params
-
+    CONSTANT = 1000
     PATH_TO_REC = "../data/"
     PATH_TO_CKPT = "./checkpoints"
     SOURCE = "rainy"
