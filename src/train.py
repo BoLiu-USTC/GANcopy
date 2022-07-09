@@ -5,6 +5,9 @@ import records
 import utils
 import os.path
 
+def boliu():
+    print('Bo Liu adds func here!')
+
 def main():
     # check params
 
